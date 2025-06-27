@@ -1,6 +1,5 @@
 # Skrypt do backupu kontenerów Docker
 # Autor: 19orzeszek90
-# Data: $(date +%F)
 
 #================== USTAWIENIA ==================
 BACKUP_PATH="<path>" # dodaj scieże, do zapisywania kopii
